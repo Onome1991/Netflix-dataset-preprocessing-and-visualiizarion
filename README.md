@@ -1,2 +1,2 @@
-# Netflix-dataset-preprocessing-and-visualiization#
+# Netflix-dataset-preprocessing-and-visualization#
 This project involves importation of the Netflix dataset, performed some preprocessing, filling in null data, dropping the Not- Given dataset, analysis of how many movies and TV series have been produced, the top 10 countries that has contributed to the Netflix data base, top 10 directors, Continents with the most products on the Netflix database, the number of show list produced, the distribution of of TV ratings in the dataset, analyzed the year with the most productions, the distribution of seasonal productions in the Netflix dataset and the durations of movies, finally we took a peak at the number and list of productions coming from Nigeria.
